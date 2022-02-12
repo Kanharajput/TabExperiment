@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="tab3_string">Cooking news</string>
+    <string name="tab2_string">Top tech news are these</string>
+    <string name="tab1_string">These are the top Stories</string>
+    <string name="tab_label1">Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking News</string>
+</resources>
